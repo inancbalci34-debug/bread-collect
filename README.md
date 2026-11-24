@@ -1,6 +1,6 @@
 # Bread.
 
-A website with just a bread on it. Click it, toast it, burn it, collect all 61 breads.
+A website with just a bread on it. Click it, toast it, burn it, collect all 61 breads. Available in English, Türkçe, Español, Deutsch, Français, Português, Русский and 日本語.
 
 **Play:** https://bread.inancx.workers.dev
 
