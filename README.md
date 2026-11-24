@@ -1,6 +1,6 @@
 # Bread.
 
-A website with just a bread on it. Click it, toast it, burn it, collect all 38 breads.
+A website with just a bread on it. Click it, toast it, burn it, collect all 61 breads.
 
 **Play:** https://bread.inancx.workers.dev
 
